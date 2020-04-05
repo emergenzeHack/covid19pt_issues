@@ -1,22 +1,57 @@
 {
-  "action": "edited",
-  "changes": {
-    "body": {
-      "from": "<pre><yamldata>\r\nEmail: matteo.fortini@gmail.com\r\nNome: Matteo\r\nNotas_Legais: OK\r\nO_que: prova\r\nlocation: 39.640665 -8.756104 0 0\r\n</yamldata></pre>"
-    }
-  },
+  "action": "labeled",
   "issue": {
-    "assignee": null,
-    "assignees": [],
+    "assignee": {
+      "avatar_url": "https://avatars0.githubusercontent.com/u/15818505?v=4",
+      "events_url": "https://api.github.com/users/ks555/events{/privacy}",
+      "followers_url": "https://api.github.com/users/ks555/followers",
+      "following_url": "https://api.github.com/users/ks555/following{/other_user}",
+      "gists_url": "https://api.github.com/users/ks555/gists{/gist_id}",
+      "gravatar_id": "",
+      "html_url": "https://github.com/ks555",
+      "id": 15818505,
+      "login": "ks555",
+      "node_id": "MDQ6VXNlcjE1ODE4NTA1",
+      "organizations_url": "https://api.github.com/users/ks555/orgs",
+      "received_events_url": "https://api.github.com/users/ks555/received_events",
+      "repos_url": "https://api.github.com/users/ks555/repos",
+      "site_admin": false,
+      "starred_url": "https://api.github.com/users/ks555/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/ks555/subscriptions",
+      "type": "User",
+      "url": "https://api.github.com/users/ks555"
+    },
+    "assignees": [
+      {
+        "avatar_url": "https://avatars0.githubusercontent.com/u/15818505?v=4",
+        "events_url": "https://api.github.com/users/ks555/events{/privacy}",
+        "followers_url": "https://api.github.com/users/ks555/followers",
+        "following_url": "https://api.github.com/users/ks555/following{/other_user}",
+        "gists_url": "https://api.github.com/users/ks555/gists{/gist_id}",
+        "gravatar_id": "",
+        "html_url": "https://github.com/ks555",
+        "id": 15818505,
+        "login": "ks555",
+        "node_id": "MDQ6VXNlcjE1ODE4NTA1",
+        "organizations_url": "https://api.github.com/users/ks555/orgs",
+        "received_events_url": "https://api.github.com/users/ks555/received_events",
+        "repos_url": "https://api.github.com/users/ks555/repos",
+        "site_admin": false,
+        "starred_url": "https://api.github.com/users/ks555/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/ks555/subscriptions",
+        "type": "User",
+        "url": "https://api.github.com/users/ks555"
+      }
+    ],
     "author_association": "MEMBER",
-    "body": "<pre><yamldata>\r\nEmail: foo@gmail.com\r\nNome: Foo\r\nNotas_Legais: OK\r\nO_que: prova\r\nlocation: 39.640665 -8.756104 0 0\r\n</yamldata></pre>",
+    "body": "<pre><yamldata>\nLink: https://www.sesaram.pt/\nNome: LINHA IDOSO\nNotas_Legais: OK\nO_que: 'MADEIRA - O SESARAM assegurará o apoio domiciliário médico, após a alta clínica.\n  Para este efeito foi criada a linha de apoio específica: LINHA IDOSO – 969 320 822.\n\n\n  Os cuidados de enfermagem necessários também estão assegurados.\n\n\n  Em articulação com a Cruz Vermelha Portuguesa, se necessário for, e de acordo com\n  as necessidades económicas, será ativado o apoio do banco de ajudas técnicas com\n  empréstimo de cama articulada, colchão anti-escaras e cadeira de rodas e andadeiras.'\nlocation: 32.732187 -16.99173 0 0\n</yamldata></pre>",
     "closed_at": null,
     "comments": 0,
-    "comments_url": "https://api.github.com/repos/emergenzeHack/covid19pt_issues/issues/2/comments",
-    "created_at": "2020-04-03T15:14:41Z",
-    "events_url": "https://api.github.com/repos/emergenzeHack/covid19pt_issues/issues/2/events",
-    "html_url": "https://github.com/emergenzeHack/covid19pt_issues/issues/2",
-    "id": 593453657,
+    "comments_url": "https://api.github.com/repos/emergenzeHack/covid19pt_issues/issues/54/comments",
+    "created_at": "2020-04-20T22:23:11Z",
+    "events_url": "https://api.github.com/repos/emergenzeHack/covid19pt_issues/issues/54/events",
+    "html_url": "https://github.com/emergenzeHack/covid19pt_issues/issues/54",
+    "id": 603574314,
     "labels": [
       {
         "color": "f9d0c4",
@@ -26,18 +61,45 @@
         "name": "accepted",
         "node_id": "MDU6TGFiZWwxOTYyMzM3NjU1",
         "url": "https://api.github.com/repos/emergenzeHack/covid19pt_issues/labels/accepted"
+      },
+      {
+        "color": "46e3f4",
+        "default": false,
+        "description": "",
+        "id": 1962340522,
+        "name": "form",
+        "node_id": "MDU6TGFiZWwxOTYyMzQwNTIy",
+        "url": "https://api.github.com/repos/emergenzeHack/covid19pt_issues/labels/form"
+      },
+      {
+        "color": "ffd1a3",
+        "default": false,
+        "description": "",
+        "id": 1962338702,
+        "name": "useful contacts",
+        "node_id": "MDU6TGFiZWwxOTYyMzM4NzAy",
+        "url": "https://api.github.com/repos/emergenzeHack/covid19pt_issues/labels/useful%20contacts"
+      },
+      {
+        "color": "5a9b1a",
+        "default": false,
+        "description": "",
+        "id": 1962341318,
+        "name": "useful news",
+        "node_id": "MDU6TGFiZWwxOTYyMzQxMzE4",
+        "url": "https://api.github.com/repos/emergenzeHack/covid19pt_issues/labels/useful%20news"
       }
     ],
-    "labels_url": "https://api.github.com/repos/emergenzeHack/covid19pt_issues/issues/2/labels{/name}",
+    "labels_url": "https://api.github.com/repos/emergenzeHack/covid19pt_issues/issues/54/labels{/name}",
     "locked": false,
     "milestone": null,
-    "node_id": "MDU6SXNzdWU1OTM0NTM2NTc=",
-    "number": 2,
+    "node_id": "MDU6SXNzdWU2MDM1NzQzMTQ=",
+    "number": 54,
     "repository_url": "https://api.github.com/repos/emergenzeHack/covid19pt_issues",
     "state": "open",
-    "title": "ajuda",
-    "updated_at": "2020-04-05T10:47:36Z",
-    "url": "https://api.github.com/repos/emergenzeHack/covid19pt_issues/issues/2",
+    "title": "LINHA IDOSO",
+    "updated_at": "2020-04-20T22:40:35Z",
+    "url": "https://api.github.com/repos/emergenzeHack/covid19pt_issues/issues/54",
     "user": {
       "avatar_url": "https://avatars3.githubusercontent.com/u/62019251?v=4",
       "events_url": "https://api.github.com/users/ehack-italy/events{/privacy}",
@@ -58,6 +120,15 @@
       "type": "User",
       "url": "https://api.github.com/users/ehack-italy"
     }
+  },
+  "label": {
+    "color": "f9d0c4",
+    "default": false,
+    "description": "",
+    "id": 1962337655,
+    "name": "accepted",
+    "node_id": "MDU6TGFiZWwxOTYyMzM3NjU1",
+    "url": "https://api.github.com/repos/emergenzeHack/covid19pt_issues/labels/accepted"
   },
   "organization": {
     "avatar_url": "https://avatars1.githubusercontent.com/u/9900828?v=4",
@@ -125,8 +196,8 @@
     "name": "covid19pt_issues",
     "node_id": "MDEwOlJlcG9zaXRvcnkyNTI2ODE4NzI=",
     "notifications_url": "https://api.github.com/repos/emergenzeHack/covid19pt_issues/notifications{?since,all,participating}",
-    "open_issues": 2,
-    "open_issues_count": 2,
+    "open_issues": 37,
+    "open_issues_count": 37,
     "owner": {
       "avatar_url": "https://avatars1.githubusercontent.com/u/9900828?v=4",
       "events_url": "https://api.github.com/users/emergenzeHack/events{/privacy}",
@@ -149,9 +220,9 @@
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/emergenzeHack/covid19pt_issues/pulls{/number}",
-    "pushed_at": "2020-04-05T10:38:04Z",
+    "pushed_at": "2020-04-20T19:10:31Z",
     "releases_url": "https://api.github.com/repos/emergenzeHack/covid19pt_issues/releases{/id}",
-    "size": 22,
+    "size": 27,
     "ssh_url": "git@github.com:emergenzeHack/covid19pt_issues.git",
     "stargazers_count": 0,
     "stargazers_url": "https://api.github.com/repos/emergenzeHack/covid19pt_issues/stargazers",
@@ -162,29 +233,29 @@
     "tags_url": "https://api.github.com/repos/emergenzeHack/covid19pt_issues/tags",
     "teams_url": "https://api.github.com/repos/emergenzeHack/covid19pt_issues/teams",
     "trees_url": "https://api.github.com/repos/emergenzeHack/covid19pt_issues/git/trees{/sha}",
-    "updated_at": "2020-04-03T15:50:13Z",
+    "updated_at": "2020-04-06T17:07:36Z",
     "url": "https://api.github.com/repos/emergenzeHack/covid19pt_issues",
     "watchers": 0,
     "watchers_count": 0
   },
   "sender": {
-    "avatar_url": "https://avatars3.githubusercontent.com/u/1104926?v=4",
-    "events_url": "https://api.github.com/users/mfortini/events{/privacy}",
-    "followers_url": "https://api.github.com/users/mfortini/followers",
-    "following_url": "https://api.github.com/users/mfortini/following{/other_user}",
-    "gists_url": "https://api.github.com/users/mfortini/gists{/gist_id}",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/15818505?v=4",
+    "events_url": "https://api.github.com/users/ks555/events{/privacy}",
+    "followers_url": "https://api.github.com/users/ks555/followers",
+    "following_url": "https://api.github.com/users/ks555/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ks555/gists{/gist_id}",
     "gravatar_id": "",
-    "html_url": "https://github.com/mfortini",
-    "id": 1104926,
-    "login": "mfortini",
-    "node_id": "MDQ6VXNlcjExMDQ5MjY=",
-    "organizations_url": "https://api.github.com/users/mfortini/orgs",
-    "received_events_url": "https://api.github.com/users/mfortini/received_events",
-    "repos_url": "https://api.github.com/users/mfortini/repos",
+    "html_url": "https://github.com/ks555",
+    "id": 15818505,
+    "login": "ks555",
+    "node_id": "MDQ6VXNlcjE1ODE4NTA1",
+    "organizations_url": "https://api.github.com/users/ks555/orgs",
+    "received_events_url": "https://api.github.com/users/ks555/received_events",
+    "repos_url": "https://api.github.com/users/ks555/repos",
     "site_admin": false,
-    "starred_url": "https://api.github.com/users/mfortini/starred{/owner}{/repo}",
-    "subscriptions_url": "https://api.github.com/users/mfortini/subscriptions",
+    "starred_url": "https://api.github.com/users/ks555/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ks555/subscriptions",
     "type": "User",
-    "url": "https://api.github.com/users/mfortini"
+    "url": "https://api.github.com/users/ks555"
   }
 }
